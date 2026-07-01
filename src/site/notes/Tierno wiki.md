@@ -4,11 +4,17 @@
 
 Welcome to the player wiki for Tierrno. 
 
-Here you will find lots of information on Tierno itself, but also on playing in Tierno and campaign-specific details.
+In this wiki you will find: 
+- An [[in-world wiki\|in-world wiki]] on the various [[cultures\|cultures]], [[events\|events]] and [[locations\|locations]] of Tierno. This is of course not complete, but should provide much ifnormation that a character living in Tierno could be expected to kno. Written from the perspective of scholars in 
+- [[Playing in Tierno\|Playing in Tierno]]: character creation, homebrew rules, etc. 
+- Campaign specifics: maps, items etc.
+This is both a work in progress as far as the current information goes ánd will be updatesas further information is discovered by players in the setting. 
 
-Here are some quick links:
+These pages may be of interest to get started:
+[[Creating a character\|Creating a character]]
+[[Playing in the bronze or iron age\|Playing in the bronze or iron age]]
+[[]]
 
-## Tierno
 [[Species\|Species]]
 [[Geography\|Geography]]
 [[History\|History]]
