@@ -2,9 +2,9 @@
 {"dg-publish":true,"permalink":"/tierno/","tags":["gardenEntry"],"dg-note-properties":{}}
 ---
 
-> When making a silent wish upon seeing a falling star, the Tailor, god of earth and magic, may hear it and weave a gemstone filled with hope into the fabric of your fate. These are crystalized possibility, taken from the plane of dream and magic, designed by the gods to give life to Tierno and its inhabitants. 
+> When making a silent wish upon seeing a falling star, the Tailor, god of earth and magic, may hear it and weave a gemstone filled with hope into the fabric of your fate. These are crystalized possibility, taken from the plane of dreams, designed by the gods to give life to Tierno and its inhabitants. 
 > 
-> But what if he could realize one ultimate project? Tailoring the entire world in the grandest of dresses, the plane of possibility itself. It would make magic and opportunity not an occasional bit of luck, but a tool, available to everyone. 
+> But what if he could realize one ultimate project? Tailoring the entire world in the grandest of dresses, the plane of dreams itself. It would make magic and opportunity not an occasional bit of luck, but a tool, available to everyone. 
 
 Yet, here we stand today. The last star has fallen and the empty nightsky watches a world that has changed forever.  These falling stars were not a symbol of hope, but of dispair. Each star transformed its point of impact as it came crashing down, bringing something of a different world with it. From strange spirits of Faerie, to primal elements and creatures of nightmare. With natural disasters, monsters of legend roaming around and nature running wild, empires fell, cities were abandoned and landscapes permanently changed.  
 
