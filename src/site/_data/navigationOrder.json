@@ -4,10 +4,7 @@
     "Campaigns",
     "Houserules",
     "Tiernonicon",
-    "Creating a character",
-    "DnD classes in Tierno",
-    "Playing in the bronze-iron age",
-    "Weapons and armor"
+    "Playing in Tierno"
   ],
   "/Campaigns": [
     "Cultura",
@@ -34,5 +31,11 @@
     "Species",
     "Starfall",
     "Tiernonicon"
+  ],
+  "/Playing in Tierno": [
+    "Creating a character",
+    "DnD classes in Tierno",
+    "Playing in the bronze-iron age",
+    "Weapons and armor"
   ]
 }
