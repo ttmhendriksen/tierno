@@ -23,21 +23,3 @@ As a hero in Tierno you will venture out from one the remaining citystates.  Pic
 - Campaign specifics: maps, items etc.
 This is both a work in progress as far as the current information goes ánd will be updated as further information is discovered by players in the setting. 
 
-
-
-[[Playing in Tierno/Creating a character\|Creating a character]]
-[[Playing in the bronze or iron age\|Playing in the bronze or iron age]]
-[[Tiernonicon/Starfall\|Starfall]]
-## 
-[[Tiernonicon/Species\|Species]]
-[[Geography\|Geography]]
-[[Classes\|Classes]]
-
-[[History\|History]]
-## Playing in Tierno
-[[Character creation\|Character creation]]
-[[Inventory management\|Inventory management]]
-[[Houserules/Resting rules\|Resting rules]]
-
-## Campaign specifics
-[[Campaigns/Cultura/Cultura\|Cultura]]
