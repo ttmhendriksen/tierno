@@ -1,0 +1,38 @@
+{
+  "/": [
+    "Tierno",
+    "Campaigns",
+    "Houserules",
+    "Tiernonicon",
+    "Creating a character",
+    "DnD classes in Tierno",
+    "Playing in the bronze-iron age",
+    "Weapons and armor"
+  ],
+  "/Campaigns": [
+    "Cultura",
+    "Campaigns"
+  ],
+  "/Campaigns/Cultura": [
+    "Cultura"
+  ],
+  "/Houserules": [
+    "Houserules",
+    "Inventory rules",
+    "Resting rules"
+  ],
+  "/Tiernonicon": [
+    "Aasimar",
+    "Dragonborn",
+    "Dwarves",
+    "Elves",
+    "Gnomes",
+    "Hadim",
+    "Halflings",
+    "Humans",
+    "Orcs",
+    "Species",
+    "Starfall",
+    "Tiernonicon"
+  ]
+}
