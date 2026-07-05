@@ -3,7 +3,7 @@
 ---
 
 NPCs:
-[[Raout\|Raout]] - dragonborn king of [[Tiernonicon/Articles/Hadim\|Hadim]]
-[[Artio\|Artio]] - gnome wizard
+[[Campaigns/Cultura/Raout\|Raout]] - dragonborn king of [[Tiernonicon/Articles/Hadim\|Hadim]]
+[[Campaigns/Cultura/Artio\|Artio]] - gnome wizard
 
 ![Playermap.png](/img/user/Campaigns/Cultura/Playermap.png)
