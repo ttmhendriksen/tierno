@@ -3,4 +3,4 @@
 ---
 
 Hello, please only look at campaigns you are playing in!
-Currently: [[Campaigns/Cultura/Cultura\|Cultura]]
+Currently: [[Campaigns/Cultura\|Cultura]]
