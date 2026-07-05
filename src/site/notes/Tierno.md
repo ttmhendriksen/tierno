@@ -15,7 +15,7 @@ With their fates as well as those of the other species in Tierno having taking s
 As a hero in Tierno you will venture out from one the remaining citystates.  Pick up your bronzen spear and discover what is beyond the horizon, reclaim old treasures and reconnect with allies once known. You may be the only reason your town and its people stay standing as point of light in the wilderness. If you find your way through the wilderness, slay the beasts of legend and overcome strange magics you might just be the catalyst leading to newfound growth and civilization. Was there something to the Tailor's plans afterall?
 
 # Welcome to Tierno!
- Instead of the typical "medieval" period, this fantasy setting for dungeons and dragons mainly takes elements from the bronze and iron ages, taking inspiration from real world empires such as the ancient greeks, egyptians, babylonians, hittites and many others. All official DnD classes are available, but may be changed a bit to better fit Tierno. Click [[DnD classes in Tierno\|here]] to find out how, or read about [[Weapons and armor\|weapons and armor]] in the time period, as iron weapons are not yet commonplace and instead  bronze or other materials are used. As explained above, the various species each have their own *spark* (something that they have to do) and *fade* (something that will happen if they don't). These can vary quite a bit per individual, so you're certainly encouraged to find a creative interpretation for your adventurer, but you can also leave them as more of a influence on the cultures and societies dealing with these demands if that fits your character ideas better. Read more about the [[Species\|species and sparks]] here. You may also be interested in [[Creating a character\|creating a character]],  [[Rules overview\|(homebrew) rules]] that support playing in Tierno such as those on [[Resting rules\|resting]] and [[Inventory rules\|inventory space]] or want to find information on [[Campaigns\|your campaign]] (such as maps, important events etc). Other than these player-facing articles, most notes will be written from the point of view of the *[[Tiernonicon\|Tiernonicon]]*, an ongoing effort gather all information of interest about Tierno in one place. institute in Tierno, see for example [[Starfall\|Starfall]], [[Hadim\|Hadim]] and [[Dragonborn\|Dragonborn]]. 
+ Instead of the typical "medieval" period, this fantasy setting for dungeons and dragons mainly takes elements from the bronze and iron ages, taking inspiration from real world empires such as the ancient greeks, egyptians, babylonians, hittites and many others. All official DnD classes are available, but may be changed a bit to better fit Tierno. Click [[Playing in Tierno/DnD classes in Tierno\|here]] to find out how, or read about [[Playing in Tierno/Weapons and armor\|weapons and armor]] in the time period, as iron weapons are not yet commonplace and instead  bronze or other materials are used. As explained above, the various species each have their own *spark* (something that they have to do) and *fade* (something that will happen if they don't). These can vary quite a bit per individual, so you're certainly encouraged to find a creative interpretation for your adventurer, but you can also leave them as more of a influence on the cultures and societies dealing with these demands if that fits your character ideas better. Read more about the [[Tiernonicon/Species\|species and sparks]] here. You may also be interested in [[Playing in Tierno/Creating a character\|creating a character]],  [[Houserules/Houserules\|(homebrew) rules]] that support playing in Tierno such as those on [[Houserules/Resting rules\|resting]] and [[Houserules/Inventory rules\|inventory space]] or want to find information on [[Campaigns/Campaigns\|your campaign]] (such as maps, important events etc). Other than these player-facing articles, most notes will be written from the point of view of the *[[Tiernonicon/Tiernonicon\|Tiernonicon]]*, an ongoing scholarly in-world effort to gather all information of interest about Tierno in one place (see for example [[Tiernonicon/Starfall\|Starfall]], [[Tiernonicon/Hadim\|Hadim]] and [[Tiernonicon/Dragonborn\|Dragonborn]]). 
 
 
 - An [[in-world wiki\|in-world wiki]] on the various [[cultures\|cultures]], [[events\|events]] and [[locations\|locations]] of Tierno. This is of course not complete, but should provide much information that a character living in Tierno could be expected to kno. Written from the perspective of scholars in 
@@ -25,11 +25,11 @@ This is both a work in progress as far as the current information goes ánd will
 
 
 
-[[Creating a character\|Creating a character]]
+[[Playing in Tierno/Creating a character\|Creating a character]]
 [[Playing in the bronze or iron age\|Playing in the bronze or iron age]]
-[[Starfall\|Starfall]]
+[[Tiernonicon/Starfall\|Starfall]]
 ## 
-[[Species\|Species]]
+[[Tiernonicon/Species\|Species]]
 [[Geography\|Geography]]
 [[Classes\|Classes]]
 
@@ -37,7 +37,7 @@ This is both a work in progress as far as the current information goes ánd will
 ## Playing in Tierno
 [[Character creation\|Character creation]]
 [[Inventory management\|Inventory management]]
-[[Resting rules\|Resting rules]]
+[[Houserules/Resting rules\|Resting rules]]
 
 ## Campaign specifics
-[[Cultura\|Cultura]]
+[[Campaigns/Cultura/Cultura\|Cultura]]
