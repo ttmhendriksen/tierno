@@ -2,17 +2,22 @@
 {"dg-publish":true,"permalink":"/houserules/inventory-rules/","dg-note-properties":{}}
 ---
 
-gebaseerd op hoe veel ruimte dingen innemen (en hoe sterk je bent), met "slots"
+Inventory space is based on "slots", taking into account both the space items take and your strength,
 
-Aantal slots: str + 6 (rugzak) + 6 (pockets)
+Your amount of slots equals your strength score + 6 (backpack) + 6 (pockets)
+
 2 slots- light armor. shortsword, shortbow etc
-3 slots - medium armor ,longsword, longbow, schild etc
+3 slots - medium armor ,longsword, longbow, shield etc
 4 slots - heavy armor, greatsword, maul etc
-1 slots - kleine items (handpalm), dolk, potion etc
-3/slot: rations
-10/slot: stackable/heel klein (neemt pas ruimte in bij vol slot)
-100/slot: munten
+1 slots - small items (fit in palm of your hand): dagger, 
+3/slot: rations 
+2/slot: javelins
+10/slot: stackable/very small (only take space when filled)
+100/slot: coins
 
-Schedes: max 4 (two-handed neemt 2 in) | voor wapens
-Pockets: max 6 (verzamelterm voor zakken, riem, etc). Deze spullen kan je direct gebruiken
-Rugzak: +6 slots, kan grote (3+ slot) items meenemen
+scabbards: max 4 (two-handed takes 2) | for weapons
+Pockets: max 6 (term includes pockets, belt, etc). Stuff you can use immediately
+backpack: +6 slots, can fit large (3+ slots) items 
+
+### Credits
+System adapted from [Vickers & Legg, 2018](https://www.drivethrurpg.com/en/product/240175/inventory-slots-5e-rule-variant)
